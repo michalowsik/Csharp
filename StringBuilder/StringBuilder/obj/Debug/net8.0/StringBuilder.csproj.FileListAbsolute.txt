@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfo.cs
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilder.exe
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilder.deps.json
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilder.runtimeconfig.json
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilder.dll
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilder.pdb
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.dll
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\obj\Debug\net8.0\refint\StringBuilder.dll
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.pdb
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.genruntimeconfig.cache
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\obj\Debug\net8.0\ref\StringBuilder.dll

@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBudowa.exe
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBudowa.deps.json
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBudowa.runtimeconfig.json
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBudowa.dll
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBudowa.pdb
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBudowa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBudowa.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBudowa.AssemblyInfo.cs
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBudowa.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBudowa.dll
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\obj\Debug\net8.0\refint\StringBudowa.dll
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBudowa.pdb
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBudowa.genruntimeconfig.cache
+C:\Users\micha\source\repos\String\StringBuilder\StringBuilder\obj\Debug\net8.0\ref\StringBudowa.dll
