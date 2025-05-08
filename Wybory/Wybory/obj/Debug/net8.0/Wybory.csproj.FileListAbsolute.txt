@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\Wybory\Wybory\bin\Debug\net8.0\Wybory.exe
+C:\Users\micha\source\repos\Wybory\Wybory\bin\Debug\net8.0\Wybory.deps.json
+C:\Users\micha\source\repos\Wybory\Wybory\bin\Debug\net8.0\Wybory.runtimeconfig.json
+C:\Users\micha\source\repos\Wybory\Wybory\bin\Debug\net8.0\Wybory.dll
+C:\Users\micha\source\repos\Wybory\Wybory\bin\Debug\net8.0\Wybory.pdb
+C:\Users\micha\source\repos\Wybory\Wybory\obj\Debug\net8.0\Wybory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\Wybory\Wybory\obj\Debug\net8.0\Wybory.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\Wybory\Wybory\obj\Debug\net8.0\Wybory.AssemblyInfo.cs
+C:\Users\micha\source\repos\Wybory\Wybory\obj\Debug\net8.0\Wybory.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\Wybory\Wybory\obj\Debug\net8.0\Wybory.dll
+C:\Users\micha\source\repos\Wybory\Wybory\obj\Debug\net8.0\refint\Wybory.dll
+C:\Users\micha\source\repos\Wybory\Wybory\obj\Debug\net8.0\Wybory.pdb
+C:\Users\micha\source\repos\Wybory\Wybory\obj\Debug\net8.0\Wybory.genruntimeconfig.cache
+C:\Users\micha\source\repos\Wybory\Wybory\obj\Debug\net8.0\ref\Wybory.dll
