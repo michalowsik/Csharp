@@ -3,7 +3,7 @@ using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Channels;
 
-namespace Komentarze_regiony
+namespace Wybory
 {
     #region 
     class Program
