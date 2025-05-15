@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\KalkulatorOceny\KalkulatorOceny\obj\Debug\net8.0\KalkulatorOceny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\KalkulatorOceny\KalkulatorOceny\obj\Debug\net8.0\KalkulatorOceny.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\KalkulatorOceny\KalkulatorOceny\obj\Debug\net8.0\KalkulatorOceny.AssemblyInfo.cs
+C:\Users\micha\source\repos\KalkulatorOceny\KalkulatorOceny\obj\Debug\net8.0\KalkulatorOceny.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\KalkulatorOceny\KalkulatorOceny\bin\Debug\net8.0\KalkulatorOceny.exe
+C:\Users\micha\source\repos\KalkulatorOceny\KalkulatorOceny\bin\Debug\net8.0\KalkulatorOceny.deps.json
+C:\Users\micha\source\repos\KalkulatorOceny\KalkulatorOceny\bin\Debug\net8.0\KalkulatorOceny.runtimeconfig.json
+C:\Users\micha\source\repos\KalkulatorOceny\KalkulatorOceny\bin\Debug\net8.0\KalkulatorOceny.dll
+C:\Users\micha\source\repos\KalkulatorOceny\KalkulatorOceny\bin\Debug\net8.0\KalkulatorOceny.pdb
+C:\Users\micha\source\repos\KalkulatorOceny\KalkulatorOceny\obj\Debug\net8.0\KalkulatorOceny.dll
+C:\Users\micha\source\repos\KalkulatorOceny\KalkulatorOceny\obj\Debug\net8.0\refint\KalkulatorOceny.dll
+C:\Users\micha\source\repos\KalkulatorOceny\KalkulatorOceny\obj\Debug\net8.0\KalkulatorOceny.pdb
+C:\Users\micha\source\repos\KalkulatorOceny\KalkulatorOceny\obj\Debug\net8.0\KalkulatorOceny.genruntimeconfig.cache
+C:\Users\micha\source\repos\KalkulatorOceny\KalkulatorOceny\obj\Debug\net8.0\ref\KalkulatorOceny.dll
